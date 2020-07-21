@@ -23,8 +23,27 @@ Reading bar charts)
   its simple
   
 Two-way tables)
-
+                | coconut | no coconut | total
+  no  chocolate |    3    |    6       |   9
+  has chocolate |    1    |    2       |   3
+  ------------------------------------------------
+  total         |    4    |    8       |  12
   
+Two-way relative frequency tables)
+
+                                     SUV | Sports Car
+  accidents within the last year   | 28  |  35
+  no accident within the last year | 97  | 104
+---------------------------------------------------------
+                                     SUV      | Sports Car
+  accidents within the last year   |28/(28+97)| 35/(35+104)
+  no accident within the last year |97/(28+97)|104/(35+104)
+                                     1.00     | 1.00
+                                     
+Interpreting two-way tables)
+
+  its simple
+
   
 
 ###################################################################################
